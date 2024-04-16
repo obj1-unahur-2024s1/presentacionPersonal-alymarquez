@@ -1,35 +1,19 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidos a
-# Programaci髇 con objetos I
+# Presentaci贸n
 
-En esta materia aprender醤 sobre la famosa POO _(OOP en ingl閟)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+hola! me llamo Alina Marquez y tengo 20 a帽os. Estoy cursando el tercer cuatrimestre de la Tecnicatura en Programaci贸n.
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+Desde chica que estoy metida en el mundo tecnol贸gico gracias a mi pap谩 que es t茅cnico y ama la tecnolog铆a, me alent贸 a que probara aprender sobre la programaci贸n. Asique en 2022 tuve la posibilidad de realizar un curso introductorio a la programaci贸n con Python, donde aprend铆 tambien a usar Django y crear una p谩gina web. Me entretuve mucho creandola desde cero, programando todo por mi cuenta y aprendiendo en el camino. Asique despu茅s de ese a帽o introduciendome en el mundo de la programaci贸n decid铆 buscar universidades para estudiar de lleno la carrera y as铆 encontr茅 la UNAHUR, comenzando la tecnicatura en el 2023.
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisi髇 1 **turno noche**: Martes 18 a 22hs y S醔ado 10 a 12hs.
-* Horario comisi髇 2 **turno ma馻na**: Mi閞coles 8 a 12hs y S醔ado 10 a 12hs. 
-* Este cuatrimestre los profesores somos Gerardo Gonz醠ez Tulian, Lucas Spigariol, Cristian Ciarallo y Hern醤 Coniglio
-* Adem醩 nos acompa馻n como colaboradores Valentino Chiappanni, Manuel Nu馿z y Lucian Coniglio.
-
-## Links importantes :monocle_face:
-- [x] [P醙ina principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/13rFU2mObqdFF_2Ocimey_oHJ0Ldv-Gx0S1N4cfHKO4Q/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/tqyHtPt) y ver el canal de Discord.
+## Hobbies e intereses 馃摉
+Aparte de programar me gusta:
+* leer distopias, thrillers y fantasia!! mi favorito actual: la trilogia de mistborn.
+* dibujar con acuarelas, pastel oleo, pero sobretodo digitalmente ya que puedo crear lo que sea sin restricciones.
+* videojuegos como hollow knight, stardew valley y valorant, aunque ahora no juego tanto como antes.
+* me encanta ir al cine.
+* jugar ajedrez (no soy muy buena)
+* el baile urbano y de kpop.
+* pasar tiempo con mi familia, amigos y mis mascotas.
 
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-
-* [Gu韆 R鄍ida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en ingl閟)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
